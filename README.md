@@ -1,2 +1,2 @@
 # VectraMind
-A Security Project
+A Security Project - — protecting customer data from suspicious activity
